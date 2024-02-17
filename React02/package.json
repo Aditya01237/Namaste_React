@@ -1,0 +1,14 @@
+{
+  "name": "ignite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aditya Pareek",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
